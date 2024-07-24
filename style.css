@@ -1,0 +1,20 @@
+.GN{
+    color: rgb(226, 43, 43);
+    font-family: 'Times New Roman', Times, serif;
+    font: size 50px;
+}
+.box{
+    background-color: lawngreen;
+    margin: 100px;
+    height: 10%;
+    border: 3px solid beige;
+    padding: 20px
+}
+.boxtype{
+    background-color: blue;
+    margin: 100px;
+    height: 100%;
+    width: 30%;
+    border: 5px solid black;
+    padding: 50px;
+}
